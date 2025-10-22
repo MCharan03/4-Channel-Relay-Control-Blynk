@@ -1,9 +1,9 @@
 // ✅ Include Required Libraries
-#define BLYNK_PRINT Serial
 #define BLYNK_TEMPLATE_ID "YOUR_BLYNK_TEMPLATE_ID"
 #define BLYNK_TEMPLATE_NAME "YOUR_BLYNK_TEMPLATE_NAME"
 #define BLYNK_AUTH_TOKEN "YOUR_BLYNK_AUTH_TOKEN"
 
+#define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 #include <ESP8266mDNS.h>
