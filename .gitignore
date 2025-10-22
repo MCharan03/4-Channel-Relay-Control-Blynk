@@ -1,0 +1,18 @@
+# Arduino
+*.elf
+*.bin
+*.hex
+*.eep
+*.map
+*.lss
+*.sym
+
+# Build products
+build/
+*.o
+*.a
+
+# Other
+*.bak
+*.tmp
+*.log
